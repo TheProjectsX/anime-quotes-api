@@ -4,7 +4,11 @@ Get Anime quotes by using this API! This is an Unofficial Implementation of Offi
 
 ## Story:
 
-I wan working on my [Anime Kingdom](https://) website Project. But I could not find any Free Anime Character Quotes API / Module. So what? We created one by Ourselves! We are Programmers After all!
+I wan working on my [Anime Kingdom](https://github.com/TheProjectsX/anime-kingdom) website Project. But I could not find any Free Anime Character Quotes API / Module. So what? We created one by Ourselves! We are Programmers After all!
+
+## Installation:
+
+pip install git+https://github.com/TheProjectsX/anime-quotes-api.git
 
 ## Methods Available:
 
