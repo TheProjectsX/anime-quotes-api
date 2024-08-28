@@ -8,7 +8,9 @@ I wan working on my [Anime Kingdom](https://github.com/TheProjectsX/anime-kingdo
 
 ## Installation:
 
+```bash
 pip install git+https://github.com/TheProjectsX/anime-quotes-api.git
+```
 
 ## Methods Available:
 
