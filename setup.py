@@ -18,8 +18,8 @@ setup(
     author="TheProjectsX",
     author_email="",
     license="MIT",
-    packages=["chatgpt_free", "chatgpt_free.servers"],
-    package_dir={"chatgpt_free": "chatgpt_free"},
+    packages=["anime_quotes"],
+    package_dir={"anime_quotes": "anime_quotes"},
     install_requires=requirements,
     # Include additional files
     include_package_data=True,
